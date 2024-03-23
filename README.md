@@ -1,9 +1,6 @@
-
-### My Portfolio [https://shivampatel0048.netlify.app/](https://shivampatel0048.netlify.app/).
-
 ---
 
-# Shivam Patel's Portfolio[https://shivampatel0048.netlify.app/]
+# Shivam Patel's [Portfolio](https://shivampatel0048.netlify.app/)
 
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer. Built with React, Vite, Tailwind CSS, and integrated with Email.js, this portfolio highlights my dedication to crafting efficient, visually appealing, and interactive web applications.
 
@@ -23,10 +20,8 @@ To explore this portfolio, simply clone the repository and follow these steps:
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hello, feel free to reach out to me through the contact form on my portfolio or via email at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, suggestions, or just want to say hello, feel free to reach out to me through the contact form on my portfolio or via email at [edu.shivampatel@gmail.com](mailto:edu.shivampatel@gmail.com).
 
 Let's connect and collaborate on exciting projects!
 
 ---
-
-Feel free to customize this template further to better reflect your personality and unique skills!
